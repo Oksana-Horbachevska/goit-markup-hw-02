@@ -85,7 +85,7 @@ a {
 
 .hero-button:hover,
 .hero-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .features-title {
